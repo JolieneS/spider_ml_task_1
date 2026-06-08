@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spider R&D — ML Inductions Task 1
 
 Submission for Spider R&D Machine Learning Induction Tasks.
@@ -31,8 +31,7 @@ spider_ml_task_1/
 
 ---
 
-*A huge thank you to **Spider R&D** for designing such a thoughtful and 
-challenging induction. These tasks were a great learning experience!*
+
 =======
 # Applied ML Domain — RAG Research Paper Q&A
 

@@ -28,9 +28,6 @@ Question → Embed → Search FAISS → Retrieve Chunks → LLM → Answer
 | PyPDF | PDF extraction |
 | Groq Llama 3.1 | Answer generation |
 
-## Demo
-🎥 **Chatbot Demo:** [Add your screen recording link here]
-
 ## How to Run
 1. Open `chatbot_code/rag_pipeline.ipynb` in Google Colab
 2. Run Cell 1 to install dependencies
